@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leonardo
 - 👀 I’m interested in money
-- 🌱 I’m currently learning SQL, Java, JS...
+- 🌱 I’m currently learning Laravel, PHP, BIG O...
 
 
 <!---
